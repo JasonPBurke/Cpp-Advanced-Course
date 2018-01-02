@@ -1,0 +1,6 @@
+﻿  Program09.cpp
+c:\users\jpbur\desktop\acc\acc fall 2017\advanced c++\program 09\program09\program09\program09.cpp(52): warning C4715: 'continueWithGroup': not all control paths return a value
+c:\users\jpbur\desktop\acc\acc fall 2017\advanced c++\program 09\program09\program09\program09.cpp(83): warning C4715: 'FindMinEvenClass<int>::operator()': not all control paths return a value
+c:\users\jpbur\desktop\acc\acc fall 2017\advanced c++\program 09\program09\program09\program09.cpp(99): warning C4715: 'FindMaxEvenClass<int>::operator()': not all control paths return a value
+  Program09.vcxproj -> C:\Users\jpbur\Desktop\ACC\ACC Fall 2017\Advanced C++\Program 09\Program09\Debug\Program09.exe
+  Program09.vcxproj -> C:\Users\jpbur\Desktop\ACC\ACC Fall 2017\Advanced C++\Program 09\Program09\Debug\Program09.pdb (Partial PDB)

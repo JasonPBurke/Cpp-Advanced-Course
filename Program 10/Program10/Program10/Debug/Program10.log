@@ -1,0 +1,4 @@
+﻿  Program10.cpp
+c:\users\jpbur\desktop\acc\acc fall 2017\advanced c++\program 10\program10\program10\program10.cpp(97): warning C4101: 'memAllocErr': unreferenced local variable
+  Program10.vcxproj -> C:\Users\jpbur\Desktop\ACC\ACC Fall 2017\Advanced C++\Program 10\Program10\Debug\Program10.exe
+  Program10.vcxproj -> C:\Users\jpbur\Desktop\ACC\ACC Fall 2017\Advanced C++\Program 10\Program10\Debug\Program10.pdb (Partial PDB)
